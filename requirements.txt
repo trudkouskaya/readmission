@@ -1,0 +1,14 @@
+# Data processing
+pandas
+numpy
+
+# SQLite database
+pysqlite3
+
+# Data visualization
+matplotlib
+seaborn
+
+# Jupyter environment
+jupyter
+ipykernel
