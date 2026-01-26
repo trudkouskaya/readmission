@@ -1,0 +1,200 @@
+encounter_id,patient_nbr,race,gender,age,admission_type_id,discharge_disposition_id,time_in_hospital,num_lab_procedures,num_medications,number_diagnoses,diag_1,diag_2,diag_3,readmitted,admission_source_id,medical_specialty,diabetesMed,insulin,medication_change,num_procedures,number_outpatient,number_emergency,number_inpatient,A1Cresult,max_glu_serum,readmit_30d,los_group,age_group,risk_score,risk_category
+2278392,8222157,Caucasian,Female,0-10,6,25,1,41,1,1,Diabetes,,,NO,1,,No,No,No,0,0,0,0,,,0,Short,Young,0,Low
+149190,55629189,Caucasian,Female,10-20,1,1,3,59,18,9,Other,Diabetes,Other,>30,7,,Yes,Up,Ch,0,0,0,0,,,0,Short,Young,2,Medium
+64410,86047875,African American,Female,20-30,1,1,2,11,13,6,Other,Diabetes,Other,NO,7,,Yes,No,No,5,2,0,1,,,0,Short,Young,2,Medium
+500364,82442376,Caucasian,Male,30-40,1,1,2,44,16,7,Other,Diabetes,CKD,NO,7,,Yes,Up,Ch,1,0,0,0,,,0,Short,Middle,2,Medium
+16680,42519267,Caucasian,Male,40-50,1,1,1,51,8,5,Other,Other,Diabetes,NO,7,,Yes,Steady,Ch,0,0,0,0,,,0,Short,Middle,2,Medium
+35754,82637451,Caucasian,Male,50-60,2,1,3,31,16,9,Other,Other,Diabetes,>30,2,,Yes,Steady,No,6,0,0,0,,,0,Short,Middle,2,Medium
+55842,84259809,Caucasian,Male,60-70,3,1,4,70,21,7,Other,Other,Other,NO,2,,Yes,Steady,Ch,1,0,0,0,,,0,Medium,Senior,2,Medium
+63768,114882984,Caucasian,Male,70-80,1,1,5,73,12,8,CHF,Other,Diabetes,>30,7,,Yes,No,No,0,0,0,0,,,0,Medium,Senior,2,Medium
+12522,48330783,Caucasian,Female,80-90,2,1,13,68,28,8,Other,Other,Other,NO,4,,Yes,Steady,Ch,2,0,0,0,,,0,Long,Senior,4,High
+15738,63555939,Caucasian,Female,90-100,3,3,12,33,18,8,Other,Other,Other,NO,4,,Yes,Steady,Ch,3,0,0,0,,,0,Long,Senior,4,High
+28236,89869032,African American,Female,40-50,1,1,9,47,17,9,Diabetes,CKD,Other,>30,7,,Yes,Steady,No,2,0,0,0,,,0,Long,Middle,4,High
+36900,77391171,African American,Male,60-70,2,1,7,62,11,7,Other,Other,Other,<30,4,,Yes,Steady,Ch,0,0,0,0,,,1,Medium,Senior,2,Medium
+40926,85504905,Caucasian,Female,40-50,1,3,7,60,15,8,CHF,Diabetes,Diabetes,<30,7,,Yes,Down,Ch,0,0,1,0,,,1,Medium,Middle,2,Medium
+42570,77586282,Caucasian,Male,80-90,1,6,10,55,31,8,CHF,Other,Other,NO,7,,Yes,Steady,No,1,0,0,0,,,0,Long,Senior,4,High
+62256,49726791,African American,Female,60-70,3,1,1,49,2,8,Other,Other,Other,>30,2,,Yes,Steady,No,5,0,0,0,,,0,Short,Senior,2,Medium
+73578,86328819,African American,Male,60-70,1,3,12,75,13,9,Other,Other,Other,NO,7,,Yes,Up,Ch,5,0,0,0,,,0,Long,Senior,4,High
+77076,92519352,African American,Male,50-60,1,1,4,45,17,8,Other,Other,Other,<30,7,,Yes,Steady,Ch,4,0,0,0,,,1,Medium,Middle,2,Medium
+84222,108662661,Caucasian,Female,50-60,1,1,3,29,11,3,Other,Other,Diabetes,NO,7,,Yes,No,No,0,0,0,0,,,0,Short,Middle,0,Low
+89682,107389323,African American,Male,70-80,1,1,5,35,23,9,Other,Other,Other,>30,7,,Yes,Steady,No,5,0,0,0,,,0,Medium,Senior,2,Medium
+148530,69422211,,Male,70-80,3,6,6,42,23,8,Other,Other,Other,NO,2,,Yes,Steady,Ch,2,0,0,0,,,0,Medium,Senior,2,Medium
+150006,22864131,,Female,50-60,2,1,2,66,19,7,Other,Other,CHF,NO,4,,Yes,Down,Ch,1,0,0,0,,,0,Short,Middle,2,Medium
+150048,21239181,,Male,60-70,2,1,2,36,11,6,Other,Other,Other,NO,4,,Yes,Steady,Ch,2,0,0,0,,,0,Short,Senior,2,Medium
+182796,63000108,African American,Female,70-80,2,1,2,47,12,8,Other,Other,Other,NO,4,,No,No,No,0,0,0,0,,,0,Short,Senior,2,Medium
+183930,107400762,Caucasian,Female,80-90,2,6,11,42,19,8,Other,Other,Other,>30,1,,No,No,No,2,0,0,0,,,0,Long,Senior,4,High
+216156,62718876,African American,Female,70-80,3,1,3,19,18,6,Other,COPD,Other,NO,2,,Yes,Steady,Ch,4,0,0,0,,,0,Short,Senior,2,Medium
+221634,21861756,Other,Female,50-60,1,1,1,33,7,3,Other,Other,Diabetes,NO,7,,Yes,No,No,0,0,0,0,,,0,Short,Middle,0,Low
+236316,40523301,Caucasian,Male,80-90,1,3,6,64,18,7,Other,CHF,Other,NO,7,,Yes,No,Ch,3,0,0,0,,,0,Medium,Senior,2,Medium
+248916,115196778,Caucasian,Female,50-60,1,1,2,25,11,3,Other,CKD,Diabetes,>30,1,,Yes,Steady,No,2,0,0,0,,,0,Short,Middle,0,Low
+250872,41606064,Caucasian,Male,20-30,2,1,10,53,20,6,Other,Diabetes,Other,>30,2,,Yes,Down,Ch,0,0,0,0,,,0,Long,Young,4,High
+252822,18196434,Caucasian,Female,80-90,1,2,5,52,14,8,CHF,Other,Other,>30,7,,Yes,No,Ch,0,0,0,0,,,0,Medium,Senior,2,Medium
+253380,56480238,African American,Female,60-70,1,1,6,87,18,9,Other,COPD,Diabetes,NO,7,,Yes,Steady,Ch,0,0,0,0,,,0,Medium,Senior,2,Medium
+253722,96664626,African American,Male,70-80,1,5,1,53,10,8,Other,Diabetes,Other,>30,7,,Yes,Down,Ch,0,0,0,0,,,0,Short,Senior,2,Medium
+260166,80845353,Caucasian,Female,70-80,1,1,6,27,16,8,Other,Other,Diabetes,>30,7,,Yes,Steady,No,0,0,0,0,,,0,Medium,Senior,2,Medium
+293058,114715242,Caucasian,Male,60-70,2,6,5,37,18,8,Other,Other,Other,>30,2,,Yes,Steady,No,0,0,0,0,,,0,Medium,Senior,2,Medium
+293118,3327282,Caucasian,Female,70-80,2,11,5,46,20,9,CHF,CKD,Other,NO,2,,Yes,Down,Ch,2,0,0,0,,,0,Medium,Senior,2,Medium
+325848,63023292,Caucasian,Female,60-70,1,1,2,41,11,6,Other,Diabetes,Other,>30,7,,Yes,Down,Ch,0,0,0,0,,,0,Short,Senior,2,Medium
+325866,98427861,Caucasian,Female,70-80,3,1,3,33,8,5,Other,Other,Diabetes,NO,2,,Yes,Steady,No,1,0,0,0,,,0,Short,Senior,2,Medium
+326028,112002975,Caucasian,Female,60-70,1,1,4,33,12,3,Other,Other,Diabetes,>30,7,,Yes,Steady,Ch,0,0,0,0,,,0,Medium,Senior,0,Low
+358776,101002446,Caucasian,Male,70-80,1,6,7,47,22,8,Other,Other,Other,NO,7,,Yes,Steady,Ch,2,0,0,0,,,0,Medium,Senior,2,Medium
+377268,104672268,Caucasian,Male,50-60,2,1,1,44,15,9,Other,CKD,Diabetes,>30,2,,Yes,Steady,No,1,0,0,0,,,0,Short,Middle,2,Medium
+383430,80588529,Caucasian,Female,70-80,1,2,1,28,15,4,Other,Other,Diabetes,>30,7,,Yes,Down,Ch,0,0,0,0,,,0,Short,Senior,0,Low
+419304,99715041,Caucasian,Male,40-50,2,1,7,36,9,5,Other,Other,CKD,>30,2,,Yes,Steady,No,2,0,0,0,,,0,Medium,Middle,2,Medium
+421194,96435585,Caucasian,Female,70-80,2,1,13,48,18,8,Other,Other,Other,>30,1,,Yes,Steady,Ch,2,0,0,1,,,0,Long,Senior,4,High
+449142,66274866,Caucasian,Male,50-60,1,1,3,59,11,6,CHF,COPD,Other,>30,7,,Yes,Steady,Ch,0,0,0,0,,,0,Short,Middle,2,Medium
+450210,80177094,Caucasian,Female,80-90,1,11,7,72,27,9,Other,Other,Other,NO,7,,Yes,Steady,No,1,0,0,0,,,0,Medium,Senior,2,Medium
+464994,106936875,Caucasian,Female,40-50,3,1,2,10,8,5,Other,Diabetes,Other,NO,2,,Yes,Steady,No,3,0,0,0,,,0,Short,Middle,2,Medium
+486156,86240259,Caucasian,Female,70-80,3,5,9,25,16,7,CHF,Other,Diabetes,<30,4,,Yes,Down,Ch,3,0,0,2,,,1,Long,Senior,4,High
+498030,51838164,Caucasian,Male,70-80,3,3,9,2,12,3,Other,Other,Diabetes,NO,4,,Yes,Steady,Ch,0,0,0,1,,,0,Long,Senior,2,Medium
+537834,90097839,Caucasian,Male,50-60,3,1,6,65,19,9,Other,Other,CHF,NO,2,,Yes,Up,Ch,5,0,0,0,,,0,Medium,Middle,2,Medium
+544194,34997814,Caucasian,Male,60-70,2,6,11,67,25,9,CHF,Other,Other,NO,4,,Yes,Steady,Ch,2,0,0,0,,,0,Long,Senior,4,High
+550098,21820806,African American,Male,50-60,2,1,4,40,14,9,Other,Other,Other,<30,2,,No,No,No,1,0,0,0,,,1,Medium,Middle,2,Medium
+584136,72200358,Caucasian,Male,70-80,3,1,5,44,13,9,Other,Other,Other,>30,2,,Yes,Steady,No,5,0,0,0,,,0,Medium,Senior,2,Medium
+590346,37746639,African American,Female,40-50,1,6,8,55,17,9,Diabetes,Other,Other,>30,7,,Yes,Steady,No,2,0,0,0,,,0,Long,Middle,4,High
+591996,58497651,African American,Female,50-60,1,1,1,53,11,9,Other,Other,Other,>30,7,,Yes,Down,Ch,0,1,0,0,,,0,Short,Middle,2,Medium
+604188,113848434,,Female,60-70,3,1,4,54,4,9,Other,Other,Other,NO,2,,Yes,Down,Ch,4,0,0,0,,,0,Medium,Senior,2,Medium
+623880,17928900,Caucasian,Female,60-70,2,1,6,58,14,9,Other,Other,Diabetes,NO,2,,Yes,Down,Ch,3,0,0,0,,,0,Medium,Senior,2,Medium
+630342,93232917,African American,Female,50-60,3,6,9,37,19,4,Diabetes,Other,CKD,>30,2,,Yes,Steady,No,2,0,0,1,,,0,Long,Middle,2,Medium
+654918,3146373,Caucasian,Male,40-50,2,1,1,36,9,6,Other,Other,Other,NO,2,,Yes,Down,Ch,1,0,0,0,,,0,Short,Middle,2,Medium
+669954,56714769,African American,Female,80-90,2,6,7,58,21,9,Other,Other,CHF,NO,4,,Yes,Down,Ch,1,0,0,0,,,0,Medium,Senior,2,Medium
+676416,71778564,Caucasian,Male,70-80,3,6,7,2,8,5,Other,Other,Diabetes,>30,4,,Yes,Down,Ch,1,0,0,1,,,0,Medium,Senior,2,Medium
+676422,63754317,African American,Female,70-80,1,1,4,48,15,9,Diabetes,Other,CKD,>30,7,,Yes,Steady,No,2,0,1,0,,,0,Medium,Senior,2,Medium
+679722,94994802,Caucasian,Male,50-60,1,2,4,45,16,8,Other,Other,CHF,>30,7,,Yes,Down,Ch,0,0,0,0,,,0,Medium,Middle,2,Medium
+682494,64729746,African American,Female,40-50,1,3,3,64,15,9,CHF,Diabetes,Other,>30,7,,Yes,Up,Ch,0,0,0,1,,,0,Short,Middle,2,Medium
+685086,24370299,Caucasian,Male,80-90,1,3,4,57,17,9,Other,Other,COPD,NO,7,,Yes,Steady,Ch,0,0,0,0,,,0,Medium,Senior,2,Medium
+712350,110537262,African American,Female,50-60,1,11,4,58,16,9,CKD,Other,Other,NO,7,,Yes,Down,Ch,1,0,0,0,,,0,Medium,Middle,2,Medium
+713268,58231314,,Female,90-100,2,3,8,43,18,9,Diabetes,Other,Other,>30,2,,Yes,Steady,No,3,0,0,0,,,0,Long,Senior,4,High
+715086,3376278,Caucasian,Male,10-20,1,5,1,51,4,1,Diabetes,,,NO,7,,Yes,Up,Ch,0,0,0,0,,,0,Short,Young,0,Low
+792402,83775519,Caucasian,Female,80-90,2,1,2,25,10,7,Other,Other,Other,NO,4,,Yes,Steady,No,1,0,0,0,,,0,Short,Senior,2,Medium
+796152,23043240,Caucasian,Female,50-60,2,1,2,32,11,9,Other,Other,Other,<30,4,,Yes,Steady,No,3,0,0,0,,,1,Short,Middle,2,Medium
+833424,74447460,Caucasian,Female,50-60,2,1,6,55,7,8,Other,Other,Other,>30,2,,Yes,Steady,No,2,0,0,0,,,0,Medium,Middle,2,Medium
+870294,95075649,Caucasian,Female,70-80,1,6,7,75,22,7,Other,CHF,CKD,<30,7,,No,No,No,2,0,0,0,,,1,Medium,Senior,2,Medium
+881016,55152216,Caucasian,Male,50-60,1,1,12,83,32,9,Other,CKD,Other,>30,7,,Yes,Up,Ch,2,0,0,0,,,0,Long,Middle,4,High
+922080,22655295,Caucasian,Male,60-70,2,1,4,31,14,7,Other,Diabetes,Other,>30,4,,Yes,Steady,No,0,0,0,0,,,0,Medium,Senior,2,Medium
+927786,60679647,Caucasian,Female,70-80,3,1,14,28,28,8,Other,Other,Other,NO,1,,Yes,Down,Ch,3,0,0,0,,,0,Long,Senior,4,High
+955884,93196251,Caucasian,Female,70-80,1,3,5,34,17,7,Other,Other,Other,>30,7,,Yes,Up,Ch,0,0,0,1,,,0,Medium,Senior,2,Medium
+961464,105366150,Caucasian,Female,70-80,1,1,4,51,9,4,Other,Other,Diabetes,>30,7,,Yes,No,No,0,0,0,0,,,0,Medium,Senior,0,Low
+964548,106469577,African American,Male,60-70,1,1,1,58,12,6,Other,Other,Other,>30,7,,Yes,No,No,1,0,0,0,,,0,Short,Senior,2,Medium
+1050294,100113975,Caucasian,Female,60-70,3,3,3,57,21,6,Other,Diabetes,Other,<30,1,,Yes,Up,Ch,1,0,0,0,,,1,Short,Senior,2,Medium
+1069716,34806888,Caucasian,Female,50-60,2,11,2,35,10,8,Other,Other,CKD,NO,4,,Yes,Up,Ch,1,1,0,0,,,0,Short,Middle,2,Medium
+1070256,23043240,Caucasian,Female,50-60,2,1,3,41,20,7,Other,Other,Diabetes,>30,4,,Yes,Steady,No,4,0,0,1,,,0,Short,Middle,2,Medium
+1072554,114039603,Caucasian,Male,70-80,3,1,3,29,7,9,Other,Other,Diabetes,NO,2,,Yes,Steady,Ch,1,0,0,0,,,0,Short,Senior,2,Medium
+1077924,21820806,African American,Male,50-60,1,6,3,52,13,9,Other,Other,Other,NO,7,,No,No,No,0,0,0,2,,,0,Short,Middle,2,Medium
+1079592,101707335,Caucasian,Female,50-60,1,7,5,58,16,7,Other,Diabetes,Other,>30,7,,Yes,Up,Ch,0,1,0,1,,,0,Medium,Middle,2,Medium
+1110420,96190083,Caucasian,Male,60-70,1,1,1,59,10,7,Other,Other,Other,NO,7,,Yes,Down,Ch,0,0,0,0,,,0,Short,Senior,2,Medium
+1115640,76197258,Other,Male,60-70,2,1,5,64,14,9,Other,CHF,CKD,>30,4,,Yes,Down,Ch,4,0,0,0,,,0,Medium,Senior,2,Medium
+1119858,68661747,Caucasian,Male,40-50,1,1,3,39,13,7,Other,Other,CHF,>30,7,,Yes,No,No,0,0,0,0,,,0,Short,Middle,2,Medium
+1136472,64494171,Caucasian,Female,40-50,3,1,4,69,25,6,Other,Diabetes,Other,>30,2,,Yes,Down,Ch,5,0,0,0,,,0,Medium,Middle,2,Medium
+1139226,73921680,,Male,60-70,2,3,3,10,19,7,Other,COPD,Diabetes,NO,2,,Yes,No,No,1,0,0,0,,,0,Short,Senior,2,Medium
+1157454,57857994,African American,Male,60-70,2,1,7,69,16,8,CHF,Other,Diabetes,>30,4,,Yes,Down,Ch,5,0,0,0,,,0,Medium,Senior,2,Medium
+1157574,91181331,Caucasian,Male,40-50,3,1,4,38,17,9,Diabetes,Other,Other,>30,2,,No,No,No,1,0,0,1,,,0,Medium,Middle,2,Medium
+1161024,20830941,Caucasian,Female,70-80,1,2,5,36,14,5,Other,Other,Diabetes,>30,7,,Yes,Steady,Ch,0,0,0,0,,,0,Medium,Senior,2,Medium
+1185942,54746082,Caucasian,Male,70-80,2,6,8,47,21,9,Other,Other,Other,>30,2,,Yes,Steady,Ch,3,0,0,1,,,0,Long,Senior,4,High
+1186980,91370916,African American,Male,40-50,2,1,4,27,12,5,Other,Diabetes,Other,>30,2,,Yes,Steady,No,0,0,0,1,,,0,Medium,Middle,2,Medium
+1193868,101334321,African American,Female,50-60,2,1,1,34,6,4,Other,Other,Other,>30,2,,Yes,Steady,No,1,0,0,0,,,0,Short,Middle,0,Low
+1194678,22997880,African American,Female,60-70,1,6,6,65,18,9,CKD,Other,Other,>30,7,,Yes,Steady,No,3,0,0,0,,,0,Medium,Senior,2,Medium
+1195056,79549353,Caucasian,Male,70-80,2,1,1,19,8,9,Other,Other,Other,>30,2,,Yes,Steady,No,2,0,0,0,,,0,Short,Senior,2,Medium
+1195548,106343838,Caucasian,Female,70-80,1,3,5,64,21,8,Other,CHF,Other,>30,7,,Yes,Steady,No,0,0,0,1,,,0,Medium,Senior,2,Medium
+1212006,84981816,Caucasian,Male,70-80,1,1,3,55,23,9,Other,Other,Other,NO,7,,Yes,Down,Ch,4,0,0,1,,,0,Short,Senior,2,Medium
+1257282,84488562,Other,Female,50-60,1,1,2,53,6,3,Other,Diabetes,Other,NO,7,,Yes,Up,Ch,0,0,0,0,,,0,Short,Middle,0,Low
+1260216,92117574,,Male,30-40,2,6,6,72,16,5,Other,Other,Diabetes,>30,4,,Yes,Steady,Ch,2,0,0,1,,,0,Medium,Middle,2,Medium
+1260312,38688588,Caucasian,Male,70-80,1,11,9,56,30,9,Other,Other,Other,NO,7,,Yes,Steady,No,2,0,0,0,,,0,Long,Senior,4,High
+1260894,91530936,Caucasian,Female,60-70,2,11,7,73,23,9,Other,Other,Diabetes,NO,2,,Yes,Steady,No,0,0,0,0,,,0,Medium,Senior,2,Medium
+1262736,50253120,Caucasian,Female,30-40,2,1,3,22,17,8,Other,Other,Other,NO,4,,Yes,No,No,1,0,0,0,,,0,Short,Middle,2,Medium
+1270524,67897251,Caucasian,Male,60-70,1,2,1,59,12,7,Other,Other,Other,NO,7,,Yes,Steady,No,0,0,0,0,,,0,Short,Senior,2,Medium
+1274802,71003736,African American,Female,70-80,1,1,3,31,11,9,Other,Other,Other,NO,7,,Yes,Down,Ch,2,0,0,0,,,0,Short,Senior,2,Medium
+1414158,48925980,Caucasian,Male,80-90,1,6,2,34,9,7,Other,Other,Diabetes,>30,7,,No,No,No,0,0,0,0,,,0,Short,Senior,2,Medium
+1445010,23807808,Other,Female,50-60,1,1,9,96,20,9,Diabetes,Other,Other,NO,7,,Yes,Up,Ch,3,0,0,0,,,0,Long,Middle,4,High
+1455252,96440301,Caucasian,Female,80-90,1,1,3,34,11,8,Other,CHF,Other,>30,7,,No,No,No,0,0,0,0,,,0,Short,Senior,2,Medium
+1517730,105882957,Caucasian,Male,60-70,2,1,1,35,26,5,Other,Other,Other,NO,2,,Yes,Steady,No,1,0,0,0,,,0,Short,Senior,2,Medium
+1668252,76159881,Caucasian,Female,50-60,3,1,1,46,19,8,Other,Other,Other,>30,2,,Yes,Steady,No,1,0,0,0,,,0,Short,Middle,2,Medium
+1676676,72405540,African American,Male,50-60,1,1,5,72,22,9,Diabetes,CKD,Other,>30,7,,Yes,Down,Ch,5,0,0,0,,,0,Medium,Middle,2,Medium
+1686690,10777860,,Male,60-70,3,1,4,39,21,6,Other,Other,COPD,>30,2,,Yes,Steady,Ch,2,0,0,0,,,0,Medium,Senior,2,Medium
+1759458,48131838,Caucasian,Male,40-50,1,1,3,33,13,3,Other,Other,Diabetes,NO,1,,Yes,No,No,1,0,0,0,,,0,Short,Middle,0,Low
+1802280,49407813,Caucasian,Male,70-80,3,1,3,39,13,7,Other,Other,Other,NO,2,,Yes,Steady,No,2,0,0,0,,,0,Short,Senior,2,Medium
+1810752,6915888,Caucasian,Male,70-80,1,3,14,78,19,8,Other,Diabetes,Diabetes,<30,7,,Yes,Up,Ch,1,0,0,0,,,1,Long,Senior,4,High
+1880598,10430154,Caucasian,Female,30-40,1,1,2,48,11,5,Other,Other,Diabetes,NO,7,,Yes,Steady,No,0,0,0,0,,,0,Short,Middle,2,Medium
+1881372,3115566,Caucasian,Male,60-70,1,2,4,65,19,7,CHF,Other,Other,<30,7,,Yes,Steady,No,2,0,0,0,,,1,Medium,Senior,2,Medium
+1968528,720936,Caucasian,Female,70-80,6,25,10,56,24,9,Other,Other,Diabetes,>30,1,,Yes,Down,Ch,2,0,0,0,,,0,Long,Senior,4,High
+2040360,661014,Caucasian,Male,60-70,6,25,9,61,25,9,Other,CHF,Other,NO,7,,Yes,Down,Ch,4,0,0,0,,,0,Long,Senior,4,High
+2087382,15856002,African American,Male,60-70,2,11,2,70,17,6,Other,Other,Other,NO,4,,Yes,Up,Ch,0,0,0,0,,,0,Short,Senior,2,Medium
+2087892,29754351,Caucasian,Female,70-80,2,1,5,58,25,8,Other,CHF,Other,NO,4,,Yes,Down,Ch,6,0,0,0,,,0,Medium,Senior,2,Medium
+2088630,1719279,Caucasian,Male,40-50,6,25,11,68,25,9,CHF,Other,Diabetes,>30,7,,Yes,No,Ch,0,0,0,0,,,0,Long,Middle,4,High
+2091690,7919802,African American,Female,40-50,6,25,6,47,13,8,Other,Other,Other,NO,7,,No,No,No,2,0,0,0,,,0,Medium,Middle,2,Medium
+2092362,5041602,Caucasian,Female,70-80,6,25,11,88,16,9,Diabetes,Other,Other,>30,7,,Yes,Down,Ch,1,0,0,0,,,0,Long,Senior,4,High
+2092848,6500556,Other,Male,50-60,6,25,8,42,22,9,Diabetes,CKD,Other,NO,7,,No,No,No,2,0,0,0,,,0,Long,Middle,4,High
+2095932,276606,African American,Female,30-40,6,25,8,62,21,9,Diabetes,CKD,Other,>30,7,,Yes,Steady,Ch,0,0,0,0,,,0,Long,Middle,4,High
+2135022,815391,Caucasian,Female,80-90,6,25,8,58,9,9,Other,Other,COPD,NO,7,,Yes,Steady,No,0,0,0,0,,,0,Long,Senior,4,High
+2139660,18030078,,Male,30-40,2,1,3,44,10,9,Diabetes,Other,Other,NO,4,,Yes,Steady,No,1,0,0,0,,,0,Short,Middle,2,Medium
+2140146,53612379,African American,Female,20-30,2,1,1,56,4,3,Diabetes,Other,Other,>30,7,,Yes,Down,Ch,0,1,0,1,,,0,Short,Young,0,Low
+2223336,558360,African American,Female,60-70,6,25,9,60,17,8,Other,Other,Other,NO,1,,No,No,No,5,0,0,0,,,0,Long,Senior,4,High
+2226870,58471101,Caucasian,Female,50-60,2,6,6,66,15,9,Other,Other,Other,>30,4,,Yes,Steady,No,0,1,0,2,,,0,Medium,Middle,2,Medium
+2228292,6836652,Caucasian,Female,60-70,6,25,7,34,19,4,Other,Diabetes,Other,NO,7,,Yes,Steady,Ch,1,0,0,0,,,0,Medium,Senior,0,Low
+2262036,427482,Caucasian,Female,60-70,6,25,7,72,22,9,Other,Other,Diabetes,>30,7,,Yes,Up,Ch,0,0,0,0,,,0,Medium,Senior,2,Medium
+2265486,44279478,Caucasian,Male,70-80,6,1,6,55,13,3,Other,Diabetes,Other,NO,1,,Yes,No,Ch,1,0,0,0,,,0,Medium,Senior,0,Low
+2267052,7472070,African American,Female,90-100,6,25,7,35,11,4,Diabetes,Other,Other,NO,7,,No,No,No,2,0,0,0,,,0,Medium,Senior,0,Low
+2292606,53848278,African American,Female,70-80,6,1,13,75,16,5,COPD,Diabetes,COPD,>30,7,,Yes,No,No,0,0,0,0,,,0,Long,Senior,4,High
+2294130,5332491,Other,Female,60-70,6,25,10,60,15,9,Other,Diabetes,Other,<30,7,,Yes,Up,Ch,0,0,0,0,,,1,Long,Senior,4,High
+2298006,2519748,Caucasian,Male,60-70,6,25,4,47,15,8,Other,Diabetes,Other,NO,1,,Yes,Down,Ch,0,0,0,0,,,0,Medium,Senior,2,Medium
+2300958,5287950,Caucasian,Female,50-60,6,25,8,69,33,9,Other,Other,Diabetes,>30,7,,Yes,Steady,Ch,5,0,0,0,,,0,Long,Middle,4,High
+2302170,2024739,Caucasian,Male,80-90,6,25,3,65,5,8,Other,Other,Other,NO,7,,Yes,Steady,No,0,0,0,0,,,0,Short,Senior,2,Medium
+2305260,2780676,African American,Male,30-40,6,25,3,44,4,3,Other,Diabetes,Other,NO,7,,Yes,Down,Ch,1,0,0,0,,,0,Short,Middle,0,Low
+2305632,3635847,Caucasian,Female,60-70,6,25,7,43,20,6,Other,Diabetes,Other,NO,4,,Yes,Down,Ch,5,0,0,0,,,0,Medium,Senior,2,Medium
+2309268,77475465,Caucasian,Female,80-90,6,1,9,42,9,5,Other,CHF,Diabetes,>30,7,,Yes,Steady,No,0,0,0,0,,,0,Long,Senior,4,High
+2309376,41606064,Caucasian,Male,20-30,2,1,2,35,12,3,Other,Diabetes,Other,>30,2,,Yes,Steady,No,0,0,0,1,,,0,Short,Young,0,Low
+2311404,95586993,Caucasian,Female,90-100,6,3,11,70,23,5,Other,Other,Other,NO,7,,No,No,No,1,0,0,0,,,0,Long,Senior,4,High
+2313120,100035,Caucasian,Female,50-60,6,25,3,57,12,4,Other,Diabetes,Other,>30,7,,Yes,Steady,Ch,0,0,0,0,,,0,Short,Middle,0,Low
+2356308,608841,African American,Female,50-60,6,25,1,50,8,8,Diabetes,Other,Other,>30,1,,Yes,Steady,No,0,0,0,0,,,0,Short,Middle,2,Medium
+2363592,1059561,Caucasian,Female,50-60,6,25,1,1,8,5,Other,Other,Other,NO,1,,Yes,No,No,6,0,0,0,,,0,Short,Middle,2,Medium
+2371176,966042,Caucasian,Female,50-60,6,25,3,18,27,6,Other,Diabetes,COPD,NO,7,,Yes,Steady,No,3,0,0,0,,,0,Short,Middle,2,Medium
+2373468,1741662,Caucasian,Male,70-80,6,25,8,61,39,9,Other,Other,CHF,>30,7,,Yes,Up,Ch,2,0,0,0,,,0,Long,Senior,4,High
+2398146,8147493,Caucasian,Male,60-70,6,25,1,31,8,5,Other,COPD,Other,NO,1,,Yes,No,No,2,0,0,0,,,0,Short,Senior,2,Medium
+2422806,3377124,Caucasian,Male,40-50,6,25,14,41,18,4,Other,Other,Diabetes,>30,1,,Yes,No,Ch,1,0,0,0,,,0,Long,Middle,2,Medium
+2429610,90460242,Caucasian,Female,50-60,1,1,7,55,16,7,Diabetes,Other,Other,>30,7,,Yes,Up,Ch,1,0,0,1,,,0,Medium,Middle,2,Medium
+2430276,69318126,Caucasian,Male,70-80,6,1,7,82,21,5,Other,Other,Other,NO,7,,No,No,No,2,0,0,0,,,0,Medium,Senior,2,Medium
+2459892,5074974,Caucasian,Male,50-60,6,25,1,37,14,8,Other,CKD,Other,NO,7,,No,No,No,1,0,0,0,,,0,Short,Middle,2,Medium
+2466036,4311585,Caucasian,Male,60-70,6,25,10,46,23,9,Other,Other,Other,>30,1,,Yes,Steady,Ch,6,0,0,0,,,0,Long,Senior,4,High
+2473188,981198,Caucasian,Female,60-70,6,25,5,47,24,7,Diabetes,CKD,Other,>30,1,,Yes,Steady,No,3,0,0,0,,,0,Medium,Senior,2,Medium
+2473668,720369,African American,Male,50-60,6,25,3,34,11,9,Other,Other,Other,>30,7,,No,No,No,3,0,0,0,,,0,Short,Middle,2,Medium
+2474778,77574096,Caucasian,Male,60-70,2,1,2,34,24,6,Other,Other,Other,>30,2,,Yes,Steady,Ch,2,0,0,1,,,0,Short,Senior,2,Medium
+2476920,4279149,Caucasian,Female,80-90,6,25,5,54,15,8,Other,Diabetes,Other,NO,1,,Yes,Steady,No,1,0,0,0,,,0,Medium,Senior,2,Medium
+2478690,99378891,Caucasian,Male,80-90,1,1,1,37,13,6,Diabetes,Other,Other,<30,7,,Yes,Steady,No,0,0,0,0,,,1,Short,Senior,2,Medium
+2478978,4136517,Other,Male,50-60,6,25,6,48,22,8,Other,Other,Other,NO,1,,No,No,No,2,0,0,0,,,0,Medium,Middle,2,Medium
+2521974,80499960,Caucasian,Male,80-90,6,3,5,47,6,5,Other,Other,Other,<30,7,,No,No,No,1,0,0,0,,,1,Medium,Senior,2,Medium
+2523660,8354835,Caucasian,Male,50-60,6,25,2,34,8,5,Other,Other,Diabetes,NO,7,,Yes,No,No,2,0,0,0,,,0,Short,Middle,2,Medium
+2524134,81644544,Caucasian,Female,80-90,2,6,6,49,17,7,Other,Other,Other,NO,4,,Yes,Down,Ch,2,0,0,0,,,0,Medium,Senior,2,Medium
+2524314,384939,Caucasian,Female,40-50,6,25,5,46,9,8,Other,Other,Other,>30,7,,Yes,No,No,1,0,0,0,,,0,Medium,Middle,2,Medium
+2527092,708741,Caucasian,Female,80-90,6,25,7,70,13,9,Other,Diabetes,CHF,>30,7,,Yes,Down,Ch,0,0,0,0,,,0,Medium,Senior,2,Medium
+2530254,101686554,Caucasian,Female,30-40,1,1,2,18,15,3,Other,Other,Diabetes,<30,7,,Yes,Down,Ch,0,5,1,0,,,1,Short,Middle,0,Low
+2532486,2038905,Caucasian,Female,50-60,6,25,6,38,14,9,Other,Other,Other,NO,1,,No,No,No,2,0,0,0,,,0,Medium,Middle,2,Medium
+2538204,8348193,Caucasian,Female,50-60,6,25,4,34,12,5,Diabetes,Other,Other,NO,1,,Yes,Steady,Ch,3,0,0,0,,,0,Medium,Middle,2,Medium
+2548314,48452823,Caucasian,Female,60-70,6,1,3,52,7,5,Other,Diabetes,CHF,>30,1,,Yes,Up,Ch,1,0,0,0,,,0,Short,Senior,2,Medium
+2548842,3168720,Caucasian,Female,60-70,6,25,7,42,10,9,Other,Other,Other,NO,1,,No,No,No,3,0,0,0,,,0,Medium,Senior,2,Medium
+2549268,88614963,Caucasian,Male,70-80,3,2,6,31,19,6,CHF,Other,Other,<30,4,,Yes,Steady,Ch,2,0,0,3,,,1,Medium,Senior,2,Medium
+2549826,688347,Caucasian,Female,50-60,6,25,1,58,5,6,Other,Other,Other,>30,7,,No,No,No,0,0,0,0,,,0,Short,Middle,2,Medium
+2551236,1784367,Caucasian,Male,70-80,6,25,5,39,6,9,Other,Other,Other,>30,1,,No,No,No,2,0,0,0,,,0,Medium,Senior,2,Medium
+2552952,86240259,Caucasian,Female,70-80,1,3,11,44,19,8,Other,Other,COPD,>30,7,,Yes,Up,Ch,0,0,1,6,,,0,Long,Senior,4,High
+2553282,2604141,Caucasian,Male,80-90,6,25,6,67,9,9,CHF,Other,Other,>30,7,,No,No,No,0,0,0,0,,,0,Medium,Senior,2,Medium
+2562210,8005509,,Male,40-50,6,25,8,61,32,3,Other,Other,Diabetes,NO,1,,Yes,Steady,Ch,5,0,0,0,,,0,Long,Middle,2,Medium
+2563734,5039316,Caucasian,Male,70-80,6,25,7,45,8,6,Other,Other,Diabetes,NO,7,,Yes,Steady,Ch,0,0,0,0,,,0,Medium,Senior,2,Medium
+2565846,83864538,Caucasian,Male,40-50,2,1,1,29,15,8,Other,Other,Other,NO,2,,Yes,Steady,Ch,2,0,0,1,,,0,Short,Middle,2,Medium
+2567256,826470,African American,Male,40-50,6,25,13,58,3,6,Other,Other,Other,NO,1,,No,No,No,0,0,0,0,,,0,Long,Middle,4,High
+2569692,112394736,Caucasian,Male,70-80,1,1,4,52,9,4,Other,Other,Other,>30,7,,Yes,No,Ch,0,0,0,0,,,0,Medium,Senior,0,Low
+2569794,794313,African American,Male,50-60,6,25,4,45,7,4,Other,Diabetes,Other,NO,7,,Yes,Steady,No,0,0,0,0,,,0,Medium,Middle,0,Low
+2570172,357300,,Male,50-60,6,25,1,33,1,5,Other,Other,Diabetes,NO,7,,No,No,No,0,0,0,0,,,0,Short,Middle,2,Medium
+2577756,105388416,Caucasian,Male,60-70,3,1,3,47,14,9,Other,Diabetes,Other,NO,2,,Yes,Steady,No,1,0,0,0,,,0,Short,Senior,2,Medium
+2584908,1174005,African American,Male,70-80,6,25,12,44,19,9,Other,CKD,Other,NO,7,,No,No,No,3,0,0,0,,,0,Long,Senior,4,High
+2586528,1427400,Caucasian,Female,80-90,6,25,2,48,10,6,Diabetes,Other,Diabetes,>30,7,,No,No,No,0,0,0,0,,,0,Short,Senior,2,Medium
+2587620,6656679,African American,Male,40-50,6,25,3,54,5,5,Other,Other,Other,>30,4,,No,No,No,0,0,0,0,,,0,Short,Middle,2,Medium
+2588250,2741004,Caucasian,Male,40-50,6,25,2,46,16,8,Other,Other,COPD,NO,4,,Yes,Down,Ch,3,0,0,0,,,0,Short,Middle,2,Medium
+2594658,5281155,Caucasian,Female,70-80,6,25,5,45,6,4,Other,Diabetes,Other,NO,7,,No,No,No,0,0,0,0,,,0,Medium,Senior,0,Low
+2594700,3163068,Caucasian,Male,70-80,6,25,3,61,8,3,Other,Other,Diabetes,NO,7,,Yes,No,No,0,0,0,0,,,0,Short,Senior,0,Low
+2595384,3151539,African American,Male,20-30,6,25,5,70,8,3,Other,Other,Diabetes,NO,7,,Yes,Steady,No,0,0,0,0,,,0,Medium,Young,0,Low
+2595612,89193870,Caucasian,Female,40-50,6,1,2,53,4,2,Diabetes,Other,,>30,7,,No,No,No,0,0,0,0,,,0,Short,Middle,0,Low
+2599620,2498787,African American,Male,60-70,6,25,3,31,11,3,Other,Diabetes,Other,NO,1,,Yes,No,Ch,1,0,0,0,,,0,Short,Senior,0,Low
+2600796,1451637,Caucasian,Female,20-30,6,25,1,66,6,2,Other,Diabetes,,>30,7,,Yes,No,No,0,0,0,0,,,0,Short,Young,0,Low
+2601576,279009,Caucasian,Female,60-70,6,25,1,31,16,6,Other,Diabetes,Other,>30,1,,Yes,Down,Ch,2,0,0,0,,,0,Short,Senior,2,Medium
+2602860,511965,Caucasian,Female,60-70,6,25,4,57,17,8,Other,CKD,Diabetes,NO,7,,Yes,Down,Ch,1,0,0,0,,,0,Medium,Senior,2,Medium
+2629110,2283327,African American,Female,40-50,6,25,6,60,27,8,Other,Other,Diabetes,<30,1,,Yes,Up,Ch,5,0,0,0,,,1,Medium,Middle,2,Medium
+2638410,6225435,Caucasian,Female,30-40,6,25,4,65,25,9,Other,Other,Other,NO,1,,No,No,No,3,0,0,0,,,0,Medium,Middle,2,Medium
